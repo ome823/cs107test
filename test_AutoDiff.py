@@ -3,11 +3,11 @@ from AutoDiffGroup23andMe import AutoDiffMath as adm
 import numpy as np
 
 
-#def test_init_error():
-#    assert ad.AutoDiff(2,der = [1,2,3])
+def test_init_error():
+    assert ad.AutoDiff(2,der = [1,2,3])
 
-#def test_ad_addition_error():
-#    assert ad.AutoDiff(2.0,3.0)+ad.AutoDiff(-1.5,complex(4.0))
+def test_ad_addition_error():
+    assert ad.AutoDiff(2.0,3.0)+ad.AutoDiff(-1.5,complex(4.0))
 
 
 
