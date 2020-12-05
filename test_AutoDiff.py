@@ -1,5 +1,5 @@
 from AutoDiff import AutoDiff as ad
-from AutoDiffMath import AutoDiffMath as adm
+import AutoDiffMath as adm
 import numpy as np
 
 
