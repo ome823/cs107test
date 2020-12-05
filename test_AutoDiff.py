@@ -1,4 +1,4 @@
-from AutoDiff import AutoDiff as ad
+import AutoDiff as ad
 import AutoDiffMath as adm
 import numpy as np
 
