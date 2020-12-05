@@ -1,5 +1,5 @@
 import numpy as np
-from AutoDiffGroup23andMe import AutoDiff as ad
+from AutoDiff import AutoDiff as ad
 
 def sin(AD_obj):
     '''
