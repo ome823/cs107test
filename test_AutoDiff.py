@@ -1,5 +1,5 @@
-from AutoDiffGroup23andMe import AutoDiff as ad
-from AutoDiffGroup23andMe import AutoDiffMath as adm
+from AutoDiff import AutoDiff as ad
+from AutoDiff import AutoDiffMath as adm
 import numpy as np
 
 
